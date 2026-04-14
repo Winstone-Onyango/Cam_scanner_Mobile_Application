@@ -1,4 +1,4 @@
-# pexel_scanner_futter_app
+# Cam_scanner_Mobile_Application
 A Flutter-based mobile application that allows users to scan documents using their device camera, enhance the scanned images, and manage them easily.
 
 Features
