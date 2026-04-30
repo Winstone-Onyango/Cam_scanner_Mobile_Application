@@ -141,7 +141,5 @@ Every feature in CamScanner serves one purpose: helping you digitize documents f
 
 **Built with 💚 and Flutter**
 
-[⬆ Back to Top](#)
-
 </div>
   
