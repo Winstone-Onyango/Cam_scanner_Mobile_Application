@@ -1,5 +1,5 @@
 import 'package:camera/camera.dart';
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; 
 import 'camera.dart';
 
 class SplashScreen extends StatefulWidget {
